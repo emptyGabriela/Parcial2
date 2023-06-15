@@ -46,7 +46,7 @@ public class principal extends javax.swing.JFrame {
 
         btn1.setFont(new java.awt.Font("Tw Cen MT Condensed Extra Bold", 1, 24)); // NOI18N
         btn1.setForeground(new java.awt.Color(255, 255, 255));
-        btn1.setText("Agregar registros:");
+        btn1.setText("Agregar registros");
         btn1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btn1ActionPerformed(evt);
